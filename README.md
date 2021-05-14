@@ -18,7 +18,7 @@
 12. [Mort_pred.R](https://github.com/cohenaginglab/HD_variability/blob/bdb00b73e164969c9facb592ad0dc1e848d8e543/Mort_pred.R): Figure entitled "Prediction of death by biomarker levels and variability indices"
 13. [Mort_pred_pop_subsets.R](https://github.com/cohenaginglab/HD_variability/blob/bdb00b73e164969c9facb592ad0dc1e848d8e543/Mort_pred_pop_subsets.R): Figure entitled "Mortality prediction by PC1, PC2, PC6, CVPC1, and CVPC3 in different population subsets"
 14. [Mort_pred_pop_subsets_4mth.R](https://github.com/cohenaginglab/HD_variability/blob/bdb00b73e164969c9facb592ad0dc1e848d8e543/Mort_pred_pop_subsets_4mth.R): Figure entitled "Mortality prediction by PC1, PC2, PC7, CVPC1, and CVPC3 in different population subsets for the 4-month variable list"
-15. No_fu_b4death_excl.R: Figure entitled "Prediction of death by biomarker mean and variance indices, excluding individuals who died but were not followed-up until death"
+15. [No_fu_b4death_excl.R](https://github.com/cohenaginglab/HD_variability/blob/bdb00b73e164969c9facb592ad0dc1e848d8e543/No_fu_b4death_excl.R): Figure entitled "Prediction of death by biomarker mean and variance indices, excluding individuals who died but were not followed-up until death"
 16. [PC_CVPC_trends.R](https://github.com/cohenaginglab/HD_variability/blob/bdb00b73e164969c9facb592ad0dc1e848d8e543/PC_CVPC_trends.R): Figure entitled "Trends before death of integrative multivariate indices"
 
 [Functions_HD_variability_paper.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/Functions_HD_variability_paper.R) contains general functions that are necessary for all other codes.

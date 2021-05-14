@@ -21,4 +21,4 @@
 15. Mort_pred_pop_subsets_4mth.R: Figure entitled "Mortality prediction by PC1, PC2, PC7, CVPC1, and CVPC3 in different population subsets for the 4-month variable list"
 16. No_fu_b4death_excl.R: Figure entitled "Prediction of death by biomarker mean and variance indices, excluding individuals who died but were not followed-up until death"
 
-Functions_HD_variability_paper.R contains general functions that are necessary for all other codes.
+[Functions_HD_variability_paper.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/Functions_HD_variability_paper.R) contains general functions that are necessary for all other codes.

@@ -5,7 +5,7 @@
 ## List of code names and the figures to which they correspond
 
 1. [Biom_contrib.R](https://github.com/cohenaginglab/HD_variability/blob/2bd133778b3dd4c511ff252eb54c07970767f996/Biom%20contrib.R): Figure entitled "Relative biomarker contributions to PC1, PC2, PC6, and CVPC3 for the 2-week variable list"
-2. Biom_contrib_4mth.R: Figure entitled "Relative biomarker contributions to PC1, PC2, PC7, and CVPC3 for the 4-month variable list"
+2. [Biom_contrib_4mth.R](https://github.com/cohenaginglab/HD_variability/blob/2bd133778b3dd4c511ff252eb54c07970767f996/Biom%20contrib_4mth.R): Figure entitled "Relative biomarker contributions to PC1, PC2, PC7, and CVPC3 for the 4-month variable list"
 3. Comb_means_CVs_mort_pred.R: Figure entitled "Effect of combining biomarker means and CVs on prediction of mortality for PC1, PC2, PC6, and CVPC3"
 4. Comb_means_CVs_mort_pred_4mth.R: Figure entitled "Effect of combining biomarker means and CVs on prediction of mortality for PC1, PC2, PC7, and CVPC3 using the 4-month variable list"
 5. CV correct.R: Figure entitled "Effect of the number of observations included in CV calculation"

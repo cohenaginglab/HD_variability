@@ -12,7 +12,7 @@
 6. [CV synchro_4mth.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/CV%20synchro_4mth.R): Figure entitled "Physiological variability shows a strong coordinated signal distributed evenly across all 16 measured biomarkers"
 7. [CV_synchro.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/CV_synchro.R): Figure entitled "Physiological variability shows a strong coordinated signal distributed evenly across all measured biomarkers"
 8. [CVPC1 trend.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/CVPC1%20trend.R): Figure entitled "CVPC1 trend before death"
-9. Ind_traj.R: Figure entitled "Individual CVPC1 trajectories before death or censoring"
+9. [Ind_traj.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/Ind_traj.R): Figure entitled "Individual CVPC1 trajectories before death or censoring"
 10. Mean_CV_trends.R: Figure entitled "Trends before death of integrative multivariate indices"
 11. Mean_CV_trends_4mth.R: Figure entitled "Mean and CV trends before death for the 4-month variable list"
 12. Mort pred_4mth.R: Figure entitled "Prediction of death by biomarker mean and variance indices for the 4-month variable list"

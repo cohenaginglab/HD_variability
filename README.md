@@ -10,7 +10,7 @@
 4. Comb_means_CVs_mort_pred_4mth.R: Figure entitled "Effect of combining biomarker means and CVs on prediction of mortality for PC1, PC2, PC7, and CVPC3 using the 4-month variable list"
 5. [CV correct.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/CV%20correct.R): Figure entitled "Effect of the number of observations included in CV calculation"
 6. [CV synchro_4mth.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/CV%20synchro_4mth.R): Figure entitled "Physiological variability shows a strong coordinated signal distributed evenly across all 16 measured biomarkers"
-7. CV_synchro.R: Figure entitled "Physiological variability shows a strong coordinated signal distributed evenly across all measured biomarkers"
+7. [CV_synchro.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/CV_synchro.R): Figure entitled "Physiological variability shows a strong coordinated signal distributed evenly across all measured biomarkers"
 8. [CVPC1 trend.R](https://github.com/cohenaginglab/HD_variability/blob/9e03a1546069d3f2e667309e9458712d3a288ecc/CVPC1%20trend.R): Figure entitled "CVPC1 trend before death"
 9. Ind_traj.R: Figure entitled "Individual CVPC1 trajectories before death or censoring"
 10. Mean_CV_trends.R: Figure entitled "Trends before death of integrative multivariate indices"
